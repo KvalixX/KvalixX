@@ -32,11 +32,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake dark](https://raw.githubusercontent.com/yourGitHubUsername/yourGitHubUsername/output/github-snake-dark.svg)
-
----
-
