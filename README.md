@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Khalil — a Full Stack Developer from Morocco 🇲🇦</h1>
 
 <p align="center">
-🔭 I’m currently working on <a href="#">LuxuryMarocVoyage</a><br>
+🔭 I’m currently working on <a href="https://moulweb.com/">Moulweb</a><br>
 🎓 I studied Computer Science & Web Development<br>
-💼 I’ve been working as a developer since 2021<br>
-📹 I also run a podcast on TikTok sharing tech & travel stories
+💼 I’ve been working as a developer since 2022<br>
 </p>
 
 ---
@@ -32,3 +31,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
+
+## 🚀 Projects
+
+- 🌐 [LuxuryMarocVoyage](https://www.luxurymarocvoyage.com/) — My first complete project at 17 years old
+- 🚗 [RoyalRideMaroc](https://royalridemaroc.com/) — Private transport and travel service
+- 💼 [MoulWeb](https://moulweb.com/) — Portfolio and business showcase
+- 📱 Many more private applications I can't showcase publicly...
+
+---
+
+## 🐍 GitHub Snake Game
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/github-snake.svg)
+
+---
